@@ -1,0 +1,19 @@
+{
+  "name": "apis_and_microservices",
+  "version": "1.0.0",
+  "description": "project with fcc on apis and microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vezeveer/apis_and_microservices.git"
+  },
+  "author": "Emmanuel Pitcher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vezeveer/apis_and_microservices/issues"
+  },
+  "homepage": "https://github.com/Vezeveer/apis_and_microservices#readme"
+}
